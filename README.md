@@ -29,5 +29,5 @@ The analysis aims to uncover the hidden relationships between when humans learn 
 - `data/`: Contains raw CSV datasets (AoA ratings and Warriner et al. ratings).
 - `visualizations/`: (Optional) Exported PNG images of key charts.
 
----
+
 **Author:** Liangyu Gan  
